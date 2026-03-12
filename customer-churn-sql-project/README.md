@@ -16,4 +16,11 @@ Analysis performed:
 
 Tools Used:
 - MySQL
+
 - SQL
+
+## SQL Query Results
+
+Example output from the dataset analysis:
+
+![SQL Results](sql-results.png)
