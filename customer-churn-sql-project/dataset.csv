@@ -1,0 +1,11 @@
+user_id,login_date,feature_used,session_time
+101,2026-01-01,Dashboard,12
+101,2026-01-02,Reports,10
+102,2026-01-01,Dashboard,8
+103,2026-01-03,Settings,5
+101,2026-01-05,Dashboard,15
+102,2026-01-06,Reports,7
+104,2026-01-10,Dashboard,6
+105,2026-01-15,Reports,9
+106,2026-02-01,Settings,4
+102,2026-02-03,Dashboard,11
